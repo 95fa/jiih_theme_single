@@ -1,7 +1,8 @@
 # jiih_theme_single
 single theme for xiuno bbs 4.0
 
-演示图片：
+## 演示
+
 单栏首页：
 ![image](https://raw.githubusercontent.com/jiix/jiih_theme_single/master/screenshot.png)
 
