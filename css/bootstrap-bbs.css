@@ -82,9 +82,13 @@ html, body {
 }
 
 .card-header-tabs > .nav-item > .nav-link.active {
-  /* background-image: linear-gradient(0deg, #f8f9fa, #fff);
-  border-color: #dee2e6; */
-  border-bottom-color: #f8f9fa;
+  border-bottom-color: #66D37E;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  color: #495057;
+  background: #fafafa;
+  border-color:  #fff;
 }
 
 .breadcrumb {
